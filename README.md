@@ -1,6 +1,5 @@
 # KSCIRC-Gait-Addin
-Microsoft Excel Gait analysis Add-in for videos digitized in Maxtraq
-
+An add-in for Microsoft Excel Gait that calculates all of the gait measures for files digitized in Matraq and save is Ascii format. 
 Install:
   1. Download file
   2. Go to file location, select file, right click, and copy
